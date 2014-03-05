@@ -10,7 +10,7 @@ var globals = {};
 	globals.tabs = new AppTabGroup(
 		{
 			title: 'Fish',
-			icon: 'images/KS_nav_ui.png',
+			icon: 'fishTab.png',
 			window: new ListWindow({
 				title: 'Fish',
 				backgroundColor: '#fff',
@@ -29,7 +29,7 @@ var globals = {};
 		},
 		{
 			title: 'Catch Log',
-			icon: 'images/KS_nav_views.png',
+			icon: 'fishTab.png',
 			window: new ListWindow({
 				title: 'Catch Log',
 				backgroundColor: '#fff',
@@ -40,7 +40,7 @@ var globals = {};
 		
 		{
 			title: 'Tackle Box',
-			icon: 'images/KS_nav_views.png',
+			icon: 'fishTab.png',
 			window: new ListWindow({
 				title: 'Tackle Box',
 				backgroundColor: '#fff',
