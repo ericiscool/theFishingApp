@@ -1,0 +1,23 @@
+{
+	"target": "simulator",
+	"deployType": "development",
+	"deviceFamily": "universal",
+	"iosSdkPath": "/Users/eric/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.GA/iphone",
+	"tiCoreHash": "77157e1ffaec640cf559356a147b6a4c",
+	"modulesHash": "7fb655db1d51a26b74a2778ab4a02a6b",
+	"modulesNativeHash": "d41d8cd98f00b204e9800998ecf8427e",
+	"gitHash": "991027b",
+	"name": "The Fishing App",
+	"id": "com.eric.myapp",
+	"analytics": true,
+	"publisher": "Ericiscool",
+	"url": "http://",
+	"version": "1.0",
+	"description": "Now there is a description",
+	"copyright": "2013 by Ericiscool",
+	"guid": "d516df02-5761-43e5-95c4-8279f66d831e",
+	"skipJSMinification": true,
+	"forceCopy": false,
+	"forceCopyAll": false,
+	"encryptJS": false
+}
